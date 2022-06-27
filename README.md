@@ -1,5 +1,5 @@
 ﻿# 🛰 About
-This is a skeleton internal cheat base + imgui implemented.
+This is a skeleton internal cheat base + hooked dx & implemented imgui.
 
 `To Come:`
 
