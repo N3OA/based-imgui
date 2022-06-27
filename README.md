@@ -1,7 +1,7 @@
 ﻿# 🛰 About
 This is a skeleton internal cheat base + hooked dx & implemented imgui.
 
-Taken from [cazz](https://www.youtube.com/c/cazzwastaken), click for original [Source](https://github.com/cazzwastaken/based) without imgui.
+Taken from [cazz](https://www.youtube.com/c/cazzwastaken), click for original [source](https://github.com/cazzwastaken/based) without imgui.
 
 `To Come:`
 
