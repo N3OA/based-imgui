@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2311 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  based.vcxproj -> C:\Users\Noa\Downloads\based-master\build\based.dll
